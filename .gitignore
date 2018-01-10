@@ -17,3 +17,6 @@ target/
 _book
 tmp
 .springBeans
+
+.gradle
+build/
